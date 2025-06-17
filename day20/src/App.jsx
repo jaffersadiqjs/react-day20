@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './App.css'
-import Lightbox from './Components/LightBox';
+import Lightbox from './Components/Lightbox';
 import ConfirmationDialog from './Components/ConfirmationDialog';
 import ModalPopup from './Components/ModelPopup';
 import Tooltip from './Components/ToolTip';
