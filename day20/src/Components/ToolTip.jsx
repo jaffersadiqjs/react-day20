@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react';
 import ReactDOM from 'react-dom';
-import '../assets/Tooltip.css';
+import '../assets/ToolTip.css';
 
 const Tooltip = ({ children, text }) => {
   const [position, setPosition] = useState(null);
